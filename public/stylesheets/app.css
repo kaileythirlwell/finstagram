@@ -23,9 +23,9 @@ p {
 }
 
 header img {
-    width: 120px;
+    width: 50px;
     margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom:10px;
 }
 
@@ -48,7 +48,7 @@ main {
 }
 
 .post .user-info h2:hover {
-    background-color:teal ;
+    color:teal;
 }
 
 .actions img {
