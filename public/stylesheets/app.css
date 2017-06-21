@@ -46,8 +46,8 @@ main {
 .form-box {
     align-items: center;
     margin: 0 auto;
-    margin-top: 60px;
-    width: 40%;
+    margin-top: 20px;
+    width: 70%;
     background-color: white;
     border: solid 5px;
     border-color: #001356;
@@ -102,4 +102,8 @@ main {
 .comment-username {
     color: #58595b;
     font-weight:bold;
+}
+
+.login-info {
+    margin-right: 15px;
 }
